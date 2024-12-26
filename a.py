@@ -1,7 +1,7 @@
 import gdown
 
 # URL file Google Drive
-url = "https://drive.google.com/uc?id=1WlzOMBtITNea7X8Qu-EIo0rErRq4SAg_"
+url = "https://archive.org/download/ghost-spectre-windows-10/WIN10.PRO.21H1.X64.GHOSTSPECTRE.%28WPE%29.ISO"
 
 # Đường dẫn lưu file sau khi tải
 output = "/mnt/win10.zip"  # Đổi tên file tùy ý
